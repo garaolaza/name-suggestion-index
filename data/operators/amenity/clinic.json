@@ -1317,12 +1317,34 @@
       }
     },
     {
-      "displayName": "Osakidetza",
+      "displayName": "Osakidetza anbulategia",
       "id": "osakidetza-edc4ef",
       "locationSet": {"include": ["es"]},
       "tags": {
         "amenity": "clinic",
         "healthcare": "clinic",
+        "operator": "Osakidetza",
+        "operator:wikidata": "Q3822645"
+      }
+    },
+    {
+      "displayName": "Osakidetza kontsultorioa",
+      "id": "osakidetza-edc4ef",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctors",
+        "operator": "Osakidetza",
+        "operator:wikidata": "Q3822645"
+      }
+    },
+    {
+      "displayName": "Osakidetza ospitalea",
+      "id": "osakidetza-edc4ef",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
         "operator": "Osakidetza",
         "operator:wikidata": "Q3822645"
       }
